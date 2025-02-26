@@ -10,6 +10,8 @@ chezmoi init --apply https://github.com/$GITHUB_USERNAME/dotfiles.git
 ## Currently managing
 
 - asdf
+- bat
 - nvim
 - oh-my-tmux
-- bat
+- powershell
+- zsh
