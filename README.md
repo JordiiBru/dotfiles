@@ -12,3 +12,4 @@ chezmoi init --apply https://github.com/$GITHUB_USERNAME/dotfiles.git
 - asdf
 - nvim
 - oh-my-tmux
+- bat
