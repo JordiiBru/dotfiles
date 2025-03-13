@@ -17,3 +17,4 @@ tfautomv 0.6.2
 chezmoi 2.59.1
 exa 0.10.1
 awscli 2.24.22
+kubectl 1.32.3

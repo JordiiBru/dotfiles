@@ -110,7 +110,7 @@ export EDITOR=nvim
 
 # custom paths
 export TGHELPER_PATH="$HOME/scripts/tghelper"
-export OBSIDIAN_PATH="$HOME/jordi/obsidian-home"
+export OBSIDIAN_PATH="$HOME/personal/obsidian-home"
 
 # path configurations
 export PATH="$HOME/.cargo/bin:$PATH"
@@ -131,7 +131,7 @@ alias lt='exa --color=always --icons --level=2 --tree'
 alias la='exa --color=always --icons --all'
 alias lla='exa --color=always --icons --all --long'
 alias cat='bat'
-alias obs='cd $HOME/jordi/obsidian-home && nvim .'
+alias obs='cd $HOME/personal/obsidian-home && nvim .'
 alias dots='cd ~/.local/share/chezmoi'
 alias v='nvim'
 alias vim='nvim'

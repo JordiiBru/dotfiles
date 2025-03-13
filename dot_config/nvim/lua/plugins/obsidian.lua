@@ -11,7 +11,7 @@ return {
     --   "BufNewFile path/to/my-vault/**.md",
     "BufReadPre "
       .. vim.fn.expand "~"
-      .. "~/jordi/obsidian-home/**.md",
+      .. "~/personal/obsidian-home/**.md",
   },
   dependencies = {
     -- Required.
@@ -23,7 +23,7 @@ return {
     workspaces = {
       {
         name = "personal",
-        path = "~/jordi/obsidian-home",
+        path = "~/personal/obsidian-home",
       },
     },
     -- Optional, completion of wiki links, local markdown links, and tags using nvim-cmp.
