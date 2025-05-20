@@ -4,7 +4,7 @@ golang 1.22.5
 nodejs 22.5.0
 ripgrep 14.1.0
 tmux 3.4
-terraform-docs 0.18.0
+terraform-docs 0.20.0
 kubie 0.24.0
 k9s 0.32.5
 kubecolor 0.4.0
